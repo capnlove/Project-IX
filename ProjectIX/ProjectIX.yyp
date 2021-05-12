@@ -4,6 +4,8 @@
     {"id":{"name":"PlayerObject","path":"objects/PlayerObject/PlayerObject.yy",},"order":0,},
     {"id":{"name":"Suspension","path":"tilesets/Suspension/Suspension.yy",},"order":0,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":16,},
+    {"id":{"name":"PlayerXAccel","path":"animcurves/PlayerXAccel/PlayerXAccel.yy",},"order":0,},
+    {"id":{"name":"JumpCurve","path":"animcurves/JumpCurve/JumpCurve.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
